@@ -98,9 +98,9 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "https://www.nhcarrigan.com/battlesnake-sorting-hat/",
-            "name": "Nicholas Carrigan",
-            "email": "nhcarrigan@gmail.com"
+            "baseHref": "https://realbattlesnakesortinghat.com/",
+            "name": "Joe Nash",
+            "email": "joe@jna.sh"
           }
         }
       }
