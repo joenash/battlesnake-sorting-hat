@@ -16,7 +16,7 @@ export class HatComponent implements OnInit {
 
   sortIntoHouse(): void {
     // logic goes here
-    const random = Math.floor(Math.random() * 4);
+    const random = Math.floor(Math.random() * 1);
 
     this.house = houses[random];
 
